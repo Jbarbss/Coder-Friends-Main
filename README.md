@@ -78,7 +78,7 @@
    
  ## Links
  
-  * Github Repository URL: (https://github.com)
+  * Github Repository URL: (https://github.com/Jbarbss/Coder-Friends-Main)
   * Heroku URL: (https://herokulink goes here.com/)
 
 
