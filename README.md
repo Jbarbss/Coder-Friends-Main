@@ -86,8 +86,8 @@
  
   * Github Repository URL: (https://github.com/Jbarbss/Coder-Friends-Main)
   * Heroku URL: (https://infinite-sea-25522.herokuapp.com/login)
-​
-​
+
+
 ## Team Roles
 The division of work for this project is as follows.
 <br>
